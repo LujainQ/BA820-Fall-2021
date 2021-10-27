@@ -78,4 +78,3 @@ import scikitplot as skplt
 
 
 # skplt.metrics.plot_silhouette(j, k5.predict(j), figsize=(7,7))
-
